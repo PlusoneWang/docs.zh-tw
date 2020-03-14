@@ -69,7 +69,7 @@ ms.locfileid: "78239416"
 
 ## <a name="c-language-specification"></a>C# 語言規格
 
-如需詳細資訊，請參閱 [C# 語言規格](~/_csharplang/spec/expressions.md#relational-and-type-testing-operators)的[關係及類型測試運算子](~/_csharplang/spec/introduction.md)一節。
+如需詳細資訊，請參閱 [C# 語言規格](~/_csharplang/spec/introduction.md)的[關係及類型測試運算子](~/_csharplang/spec/expressions.md#relational-and-type-testing-operators)一節。
 
 ## <a name="see-also"></a>另請參閱
 
